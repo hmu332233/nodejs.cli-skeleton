@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-cli-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/app.js",
+  "bin": {
+    "cli-skeleton": "bin/app.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmu332233/nodejs.cli-skeleton.git"
+  },
+  "author": "minung.han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmu332233/nodejs.cli-skeleton/issues"
+  },
+  "homepage": "https://github.com/hmu332233/nodejs.cli-skeleton#readme",
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
+}
